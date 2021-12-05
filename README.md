@@ -28,6 +28,7 @@ This lab will have starter code provided. Work with your instructor directly to 
 ### Submission Instructions
 
 Make sure your *main* branch is up to date with your most recent code.
+
 * In the submission area, paste a link to your GitHub repo for this project.
 * Add a comment to this Canvas submission with answers to the following questions.
   * How did this go, overall?
